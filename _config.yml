@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : All Your Games
     description                           : Access stats for all the games you own, including playtime and achievements
-    fontawesome_icon_name                 : gamepad-alt
+    fontawesome_icon_name                 : gamepad
 
   - title                                 : Gaming News
     description                           : Get up-to-date news articles about the games you play. Save them to your phone to read later.
