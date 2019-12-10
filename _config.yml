@@ -36,19 +36,19 @@ features                                  :
 
   - title                                 : View Your Account 
     description                           : View your account, including the games you've recently played, whether you're currently in-game and more
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : user-circle
     
   - title                                 : Friends
     description                           : See what your friends are playing and their achievement statuses
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : user-friends
 
   - title                                 : All Your Games
     description                           : Access stats for all the games you own, including playtime and achievements
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : gamepad-alt
 
   - title                                 : Gaming News
     description                           : Get up-to-date news articles about the games you play. Save them to your phone to read later.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : newspaper
 
 # Theme Settings
 topbar_color                              : "#000000"
