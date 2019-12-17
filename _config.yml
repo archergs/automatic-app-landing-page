@@ -47,8 +47,12 @@ features                                  :
     fontawesome_icon_name                 : gamepad
 
   - title                                 : Latest Gaming News
-    description                           : Get up-to-date news articles about the games you play. Save them to your phone to read later.
+    description                           : Get up-to-date news articles about the games you play. Save them to your phone to read later
     fontawesome_icon_name                 : newspaper
+    
+  - title                                 : Access Store Info
+    description                           : View pricing, review numbers, player numbers and game genres for the games you and your friends own
+    fontawesome_icon_name                 : store
 
 # Theme Settings
 topbar_color                              : "#000000"
