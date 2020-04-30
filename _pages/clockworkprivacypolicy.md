@@ -7,7 +7,7 @@ include_in_header: false
 **Last updated**  
 April 30 2020
 
-# Privacy Policy
+# Clockwork Privacy Policy
 <br>
 
 ## Clockwork doesn't collect any data. Period.
