@@ -1,2 +1,2 @@
 layout: none
-permalink: urbanwatch/.well-known/apple-app-site-association
+permalink: .well-known/apple-app-site-association
