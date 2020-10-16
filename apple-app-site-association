@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "5US2W9UQ66.com.archergs.UrbanWatch.watchkitapp.watchkitextension" ],
+             "appIDs": [ "5US2W9UQ66.com.archergs.UrbanWatch.watchkitapp.watchkitextension", "5US2W9UQ66.com.archergs.Smoke.watchkitapp.watchkitextension" ],
              "components": [
                {
                   "/": "/flicktype/*",
