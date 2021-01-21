@@ -39,20 +39,24 @@ features                                  :
     fontawesome_icon_name                 : user-circle
     
   - title                                 : Find Your Friends
-    description                           : See what your friends are playing and their achievement statuses
+    description                           : See what your friend's accounts and the games they are playing
     fontawesome_icon_name                 : user-friends
 
-  - title                                 : All Your Games
-    description                           : Access stats for all the games you own, including playtime and achievements
+  - title                                 : Game Library
+    description                           : Access your whole game library, plus your playtime and achievements
     fontawesome_icon_name                 : gamepad
 
   - title                                 : Latest Gaming News
-    description                           : Get up-to-date news articles about the games you play. Save them to your phone to read later
+    description                           : Get up-to-date news articles for any game on Steam, and save them to read later
     fontawesome_icon_name                 : newspaper
     
-  - title                                 : Access Store Info
-    description                           : View pricing, review numbers, player numbers and game genres for the games you and your friends own
+  - title                                 : Access the Steam Store
+    description                           : Browse the Steam store, view games and share them with friends
     fontawesome_icon_name                 : store
+    
+  - title                                 : Livestreams
+    description                           : Watch any of the current top livestreams on Steam
+    fontawesome_icon_name                 : tv
 
 # Theme Settings
 topbar_color                              : "#000000"
